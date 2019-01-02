@@ -15,5 +15,5 @@
 app -> build.gradle
 
     dependencies {
-            implementation 'com.github.JJput:MVPLibrary:v1.0'
+            implementation 'com.github.JJput:JJUtils:v1.0'
     }
